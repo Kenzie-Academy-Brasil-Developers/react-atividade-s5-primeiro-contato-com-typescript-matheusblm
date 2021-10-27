@@ -17,6 +17,7 @@ function App() {
     const person = { name, hobby, age };
     setUsers([...users, person]);
   };
+  //teste
   return (
     <div className="App">
       <header className="App-header">
